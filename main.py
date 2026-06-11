@@ -1,2 +1,2 @@
-Proyecto fase final.
+Proyecto fase final en rc.
 
